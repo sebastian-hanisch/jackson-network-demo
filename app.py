@@ -270,7 +270,7 @@ st.markdown(
 | **Poisson-Ankünfte von außen** | Bei Schüben und Tagesgang ist der Zustrom nicht Poisson, und die Raten ändern sich mit der Zeit. | **[zeitvariable Ankünfte](https://sebastianhanisch-time-varying-arrivals-demo.streamlit.app/)** |
 | **Eine Klasse von Lkw** | Eilige Lkw überholen an jeder Station; dann gibt es je Klasse eine eigene Verkehrsgleichung und die Produktform gilt nicht mehr. | **[Prioritätsklassen](https://sebastianhanisch-priority-queue-demo.streamlit.app/)** (eine Station) |
 | **Feste Wege nach festen Wahrscheinlichkeiten** | Hier entscheidet jeder Lkw am Stapel unabhängig, ob er zurück muss; wer seine Route aus dem Zustand ableitet (kürzeste Schlange), bricht die Voraussetzung. | **[Power-of-d-Choices](https://sebastianhanisch-power-of-d-demo.streamlit.app/)** (Wahl zwischen Spuren) |
-| **Rechenaufwand der Simulation** | Jede Variante kostet einen eigenen Lauf; für Entwurfsfragen über viele Netze lohnt ein schnelles Ersatzmodell. | **Surrogat-Modelle** (Folgestück) |
+| **Rechenaufwand der Simulation** | Jede Variante kostet einen eigenen Lauf; für Entwurfsfragen über viele Netze lohnt ein schnelles Ersatzmodell. | **[Surrogat-Modelle](https://sebastianhanisch-surrogate-queue-demo.streamlit.app/)** |
 """
 )
 st.caption(

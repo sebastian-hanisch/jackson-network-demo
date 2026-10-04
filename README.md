@@ -86,7 +86,7 @@ Jede dieser Annahmen hebt ein Folgestück der Linie auf:
 | Unbegrenzte Warteräume | [Erlang B](https://github.com/sebastian-hanisch/erlang-b-demo) |
 | Poisson-Ankünfte von außen | [Zeitvariable Ankünfte](https://github.com/sebastian-hanisch/time-varying-arrivals-demo) |
 | Eine Klasse von Lkw | [Prioritätsklassen](https://github.com/sebastian-hanisch/priority-queue-demo) |
-| Rechenaufwand der Simulation | Surrogat-Modelle (Folgestück) |
+| Rechenaufwand der Simulation | [Surrogat-Modelle](https://github.com/sebastian-hanisch/surrogate-queue-demo) |
 
 Kein Folgestück: zustandsabhängiges Routing, Blockieren mit Rückläufern, mehr als drei Stationen.
 
