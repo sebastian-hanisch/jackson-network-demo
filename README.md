@@ -1,5 +1,9 @@
 # Jackson-Netze – Gate, Kran, Stapel (Streamlit-Demo)
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-jackson-network-demo.streamlit.app/)**
+
+---
+
 Interaktive Demo zu **Bediennetzen** am Containerterminal. **Zwölftes Stück der Konzepte-Linie „Warteschlangentheorie und Simulation“** im Portfolio von
 [Sebastian Hanisch](https://sebastianhanisch.net) (Operations Research und Machine Learning): ein Verfahren, ein wachsendes Beispiel, jedes Folgestück hebt genau eine Annahme auf.
 
