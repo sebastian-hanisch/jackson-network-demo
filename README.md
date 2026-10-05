@@ -92,7 +92,7 @@ Kein Folgestück: zustandsabhängiges Routing, Blockieren mit Rückläufern, meh
 
 ## Tests
 
-139 Tests, rund 75 Sekunden: Verkehrsgleichungen, Jackson, Zerlegung (Whitt, Allen-Cunneen, Rückkopplung von Hand) und Fälle ohne Gleichgewicht, die Zweistationen-Kette von Hand und als Produkt, die Blockier-Kette (von Hand, Grenzfall, Monotonie, Invarianten),
+158 Tests: Orakel-Tests (`tests/test_oracle_jackson.py`: Jackson, Blockier-Kette und Zweistationen-Kette gegen eine eigene generische Markov-Kette über wartend / in Arbeit / blockiert, die Zerlegung gegen ein von Hand aufgestelltes lineares System, die Simulation gegen eine Neuimplementierung mit denselben Zufallszahlen), Verkehrsgleichungen, Jackson, Zerlegung (Whitt, Allen-Cunneen, Rückkopplung von Hand) und Fälle ohne Gleichgewicht, die Zweistationen-Kette von Hand und als Produkt, die Blockier-Kette (von Hand, Grenzfall, Monotonie, Invarianten),
 die Simulation (Mini-Instanzen von Hand für Tandem, Blockieren, Rückläufer und Abweisung, getrennte Ströme, Reproduzierbarkeit, Simulation gegen Formel, Little, Burke), Auswertung und Vollständigkeit der vorgerechneten Datei, Presets und Permalink,
 Diagramme (gesperrte Achsen), AppTest-Rauchtests mit festem Würfel-Seed, der Smoke-Test der Portfolio-Vorlage, ein Quelltext-Test gegen Satz-Komma-Fehler und `test_claims.py` für jede Zahl dieser README.
 
