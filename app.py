@@ -61,7 +61,7 @@ st.markdown(
     """
 Bisher war das Terminal **eine** Station. In Wirklichkeit durchläuft ein Lkw das **Gate**, dann den **Kran**, dann den **Stapel**, und ein Teil muss vom Stapel zurück zum Kran (Umstapeln). Hier steckt ein
 Satz, der Netze überraschend einfach macht: Sind die Ankünfte Poisson und die Dauern exponentiell, dann **rechnet jede Station für sich wie ein M/M/c** (mit der Rate aus den Verkehrsgleichungen), und die gemeinsame
-Verteilung ist das **Produkt** der Einzelverteilungen (Jackson). Diese Demo zeigt, wie weit das trägt: wo der **Engpass** liegt und wandert, was **Burke** über die Abgänge sagt, wie die **Streuung** durch das Netz
+Verteilung ist das **Produkt** der Einzelverteilungen (Jackson). Diese Demo zeigt, wie weit das reicht: wo der **Engpass** liegt und wandert, was **Burke** über die Abgänge sagt, wie die **Streuung** durch das Netz
 wandert und was passiert, wenn der **Stapel voll** ist und es keine Formel mehr gibt.
 """
 )

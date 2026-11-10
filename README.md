@@ -13,7 +13,7 @@ wandert**, und misst, **wo der Satz endet**: bei nicht exponentieller Dauer (die
 
 ## Kernfrage
 
-Wie weit trägt die Produktform von Jackson für ein Terminal, wo liegt der Engpass, und was passiert bei anderer Streuung und bei vollem Stapel?
+Wie weit reicht die Produktform von Jackson für ein Terminal, wo liegt der Engpass, und was passiert bei anderer Streuung und bei vollem Stapel?
 
 ## Modell und Methodik
 
